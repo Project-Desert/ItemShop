@@ -1,2 +1,2 @@
-# Project Segment: Item Shop
-**Credit: Project Beyond**
+# Project Desert: Item Shop
+**Credit for json: Project Beyond**
